@@ -190,5 +190,5 @@ done:
 
 ---
 ## Repozytorium
-https://github.com/KamilMalicki
+https://github.com/KamilMalicki/SyntaxLang/
 
