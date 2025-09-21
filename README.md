@@ -8,13 +8,8 @@ SyxL to interpreter prostego języka niskopoziomowego wzorowanego na asemblerze.
 Obsługuje typy `.long`, `.byte`, `.float`, `.string`, etykiety, stos wartości, wywołania podprogramów, operacje arytmetyczne i logiczne oraz dyrektywę `.include`.
 
 ## Wymagania
-- Kompilator C++ z obsługą C++17 (g++)
+- System operacyjny LINUX/DOCKER LINUX CONTAINER
 - System plików obsługujący ścieżki (std::filesystem)
-
-## Kompilacja
-```bash
-g++ -std=c++17 -O2 -o SyxL main.cpp
-```
 
 ## Uruchomienie
 ```bash
