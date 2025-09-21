@@ -161,7 +161,7 @@ loop:
 end:
 ```
 
-### Prosty program sumujący liczby
+### Prosty program porównujący liczby
 ```asm
 .long %n
 .long %i
